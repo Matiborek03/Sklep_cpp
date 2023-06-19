@@ -1,0 +1,20 @@
+Telewizor Samsung QLED 55";2023-06-18;Karta kredytowa;1;3299.99;4058.9917;0.23;1
+Laptop Apple MacBook Pro 13";2023-06-19;Przelew bankowy;1;5499.00;6778.77;0.23;1
+Konsola do gier Sony PlayStation 5;2023-06-20;Karta kredytowa;1;2499.00;3073.77;0.23;1
+Smartfon iPhone 12 Pro Max 256GB;2023-06-21;Karta kredytowa;1;5499.00;6778.77;0.23;1
+Pralka Bosch WAW28540PL;2023-06-22;Przelew bankowy;1;2999.00;3698.77;0.23;1
+Lodowka Samsung RB31HER2CSA;2023-06-23;Karta kredytowa;1;2299.00;2832.77;0.23;1
+Odkurzacz Dyson V11 Absolute Pro;2023-06-24;Karta kredytowa;1;2699.00;3325.77;0.23;1
+Mikrofalowka Whirlpool MWP 304 MW;2023-06-25;Przelew bankowy;1;799.00;986.77;0.23;1
+Kamera Canon EOS 90D;2023-06-26;Karta kredytowa;1;4499.00;5548.77;0.23;1
+Zmywarka Bosch SMS46KI04E;2023-06-27;Karta kredytowa;1;2499.00;3073.77;0.23;1
+Klimatyzator LG PC18SQ;2023-06-28;Przelew bankowy;1;2199.00;2708.77;0.23;1
+Głosniki JBL Charge 4;2023-06-29;Karta kredytowa;1;699.00;861.77;0.23;1
+Sluchawki Apple AirPods Pro;2023-06-30;Karta kredytowa;1;1099.00;1353.77;0.23;1
+Kuchenka mikrofalowa Samsung MS23K3513AS;2023-07-01;Przelew bankowy;1;549.00;677.77;0.23;1
+Monitor LG 27GN950-B;2023-07-02;Karta kredytowa;1;3299.00;4058.77;0.23;1
+Kino domowe Samsung HT-J4500;2023-07-03;Karta kredytowa;1;999.00;1232.77;0.23;1
+Zelazko Philips GC2678/30;2023-07-04;Przelew bankowy;1;199.00;245.77;0.23;1
+Ekspres do kawy De'Longhi ECAM 22.110.B;2023-07-05;Karta kredytowa;1;1599.00;1971.77;0.23;1
+Lodowka z zamrazarka Siemens KG36NHI32;2023-07-06;Karta kredytowa;1;3999.00;4928.77;0.23;1
+Plyta indukcyjna Bosch PIE645FB1E;2023-07-07;Przelew bankowy;1;2299.00;2832.77;0.23;1
